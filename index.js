@@ -1,4 +1,4 @@
-let weeklyExpenses = 0
+let weeklyExpenses = 1
 let monthlyExpenses = 0
 let annualExpenses = 0
 
